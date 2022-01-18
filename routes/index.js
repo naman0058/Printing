@@ -69,7 +69,7 @@ const fetch = require("node-fetch");
 
 
 router.get('/',(req,res)=>{
-  res.send('hi')
+  res.send('hi...')
 })
 
 
